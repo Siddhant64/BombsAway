@@ -3,8 +3,7 @@
 Team Members:
    Hussain Chitalwala  1602582 
    Carter Tetelowski     1586150 
-   Arthur Uwalaka        1604775 
-   Carter Tetelowski     1591885
+   Param Hooda     1591885
    Siddhant Rawal       1601701
 
 We created our take on the popular windows game "Minesweeper", This a player solving strategy game 
